@@ -1,4 +1,4 @@
-module proxy
+module github.com/MasterDimmy/fasthttp-reverse-proxy
 
 go 1.16
 
