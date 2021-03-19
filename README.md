@@ -3,7 +3,7 @@
 
 reverse http proxy hander based on fasthttp.
 
-## features:
+## features sdf:
 
 * [x] proxy client has `pool` supported
 
