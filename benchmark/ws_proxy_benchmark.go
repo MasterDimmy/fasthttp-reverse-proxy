@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/valyala/fasthttp"
-	proxy "github.com/yeqown/fasthttp-reverse-proxy"
+	proxy "github.com/MasterDimmy/fasthttp-reverse-proxy"
 )
 
 var (
