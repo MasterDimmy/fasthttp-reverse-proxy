@@ -1,4 +1,4 @@
-module fasthttp-reverse-proxy/v2
+module fasthttp-reverse-proxy
 
 go 1.16
 
